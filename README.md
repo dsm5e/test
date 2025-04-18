@@ -14,3 +14,6 @@ A SwiftUI application demonstrating a photo editor with various features includi
 - Basic input validation
 - 
 ![ezgif-6345be7b8f4e5d](https://github.com/user-attachments/assets/7be0796a-8c95-4056-a5b8-eea1e91df035)
+
+полное демо:
+https://disk.yandex.ru/i/aCv-Bx_BR-pSnA
