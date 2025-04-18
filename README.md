@@ -12,9 +12,4 @@ A SwiftUI application demonstrating a photo editor with various features includi
 - Sharing edited images
 - Firebase Authentication (Email/Password, Google Sign-In)
 - Basic input validation
-
-## Setup
-
-1.  Configure Firebase for your project (add `GoogleService-Info.plist`).
-2.  Ensure necessary privacy keys are in `Info.plist` (`NSPhotoLibraryUsageDescription`, `NSPhotoLibraryAddUsageDescription`, `NSCameraUsageDescription`).
-3.  Open the `.xcodeproj` or `.xcworkspace` in Xcode and run on a simulator or device. 
+![ezgif-6345be7b8f4e5d](https://github.com/user-attachments/assets/7be0796a-8c95-4056-a5b8-eea1e91df035)
